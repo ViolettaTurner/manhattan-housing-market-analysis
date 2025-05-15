@@ -40,7 +40,9 @@ This project analyzes **11 years of residential sales data** in Manhattan (2014�
 ### 📁 File:
 ➡️ [`Manhattan_Housing_Market_2014_2024_Analysis_GSheet_Version.xlsx`](./Manhattan_Housing_Market_2014_2024_Analysis_GSheet_Version.xlsx)
 
-Note: Best viewed in **Google Sheets** for full formatting, visuals, and charts.
+📎 **Prefer viewing with full visuals and charts?**  
+Check it out in **Google Sheets**:  
+[🔗 View in Google Sheets]([https://docs.google.com/spreadsheets/d/your_actual_google_link_here](https://docs.google.com/spreadsheets/d/1F2mMBs_lf450kABXORbeYUTjf6Vie5YmhbdtzBcmXd0/edit?usp=sharing))
 
 ---
 
