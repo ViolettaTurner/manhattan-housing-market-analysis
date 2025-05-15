@@ -42,7 +42,7 @@ This project analyzes **11 years of residential sales data** in Manhattan (2014�
 
 📎 **Prefer viewing with full visuals and charts?**  
 Check it out in **Google Sheets**:  
-[🔗 View in Google Sheets]([https://docs.google.com/spreadsheets/d/your_actual_google_link_here](https://docs.google.com/spreadsheets/d/1F2mMBs_lf450kABXORbeYUTjf6Vie5YmhbdtzBcmXd0/edit?usp=sharing))
+[🔗 View in Google Sheets](https://docs.google.com/spreadsheets/d/1F2mMBs_lf450kABXORbeYUTjf6Vie5YmhbdtzBcmXd0/edit?usp=sharing)
 
 ---
 
