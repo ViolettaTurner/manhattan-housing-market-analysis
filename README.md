@@ -12,7 +12,7 @@ This project analyzes **11 years of residential sales data** in Manhattan (2014â
 ### ðŸ“Š Key Insights:
 - **Forecasted Price:** Median unit projected to reach **~$1.94M by 2030**
 - **Buying Season:** Best months for buyers = **February, August, October**
-- **Most Affordable Areas:** Inwood (~$412K), Washington Heights (~$630K), Harlem (~$816K)
+- **Most Affordable Areas:** Inwood ($412K), Washington Heights ($630K), Harlem (approx. $816K)
 - **Luxury Class:** Single-family homes = **$5.8M median** but lowest volume
 
 ---
